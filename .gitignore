@@ -1,17 +1,17 @@
-# Build output
+# Build output (exclude all build artifacts)
 bin/
 obj/
 out/
 Debug/
 Release/
-
-# Specific framework build folders
 bin/Debug/
 bin/Release/
 obj/Debug/
 obj/Release/
 bin/Debug/net*/
+obj/Release/net*/
 obj/Debug/net*/
+obj/Release/net*/
 
 # User-specific files
 *.user
