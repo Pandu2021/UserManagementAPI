@@ -1,0 +1,61 @@
+# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Configuration & secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Paket NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Publish output
+publish/
+wwwroot/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Cache
+*.dbmdl
+*.bak
+*.mdf
+*.ldf
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Visual Studio
+*.vs/
+.vs/
+
+# Temporary files
+*.tmp
+*.temp
