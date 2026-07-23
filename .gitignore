@@ -2,6 +2,16 @@
 bin/
 obj/
 out/
+Debug/
+Release/
+
+# Specific framework build folders
+bin/Debug/
+bin/Release/
+obj/Debug/
+obj/Release/
+bin/Debug/net*/
+obj/Debug/net*/
 
 # User-specific files
 *.user
@@ -23,12 +33,12 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Configuration & secrets
+# Configuration & secrets (never push private configs)
 appsettings.Development.json
 appsettings.Local.json
 appsettings.*.json
 
-# Paket NuGet
+# NuGet packages
 *.nupkg
 *.snupkg
 packages/
@@ -42,7 +52,7 @@ TestResults/
 *.coverage
 *.coveragexml
 
-# Cache
+# Cache & database files
 *.dbmdl
 *.bak
 *.mdf

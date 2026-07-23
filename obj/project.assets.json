@@ -3754,11 +3754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pandu\\OneDrive\\Documents\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+      "projectUniqueName": "C:\\Users\\pandu\\OneDrive\\Documents\\UserManagementAPI\\UserManagementAPI.csproj",
       "projectName": "UserManagementAPI",
-      "projectPath": "C:\\Users\\pandu\\OneDrive\\Documents\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+      "projectPath": "C:\\Users\\pandu\\OneDrive\\Documents\\UserManagementAPI\\UserManagementAPI.csproj",
       "packagesPath": "C:\\Users\\pandu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pandu\\OneDrive\\Documents\\UserManagementAPI\\UserManagementAPI\\obj\\",
+      "outputPath": "C:\\Users\\pandu\\OneDrive\\Documents\\UserManagementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pandu\\AppData\\Roaming\\NuGet\\NuGet.Config"
